@@ -1,0 +1,15 @@
+# Site settings
+title: Desktop Developemnt Fun
+email: fundesktop AT yahoo.com
+description: > # this means to ignore newlines until "baseurl:"
+  桌面开发重新探索。一个小项目的开发日志。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://desktop-fun.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  desktop-fun
+
+# Build settings
+markdown: kramdown
+
+encoding: utf-8
+permalink: /:title
